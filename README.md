@@ -1,11 +1,10 @@
 # LEO CubeSat - LEO CUBEX
-This is a open source CubeSat design completely ingrown as a initiative of Orbit, Space club of NITT.
+This is a open source Low Earth Orbit CubeSat design completely ingrown as a initiative of Orbit, rocketetry club of NIT Tiruchirappalli.
 
-**Standardisation**
+## Standardisation
+In 2017, standardization effort led to the publication of ISO 17770:2017. This standard defines specifications for CubeSats including their physical, mechanical, electrical, and operational requirements. It also provides a specification for the interface between the CubeSat and its launch vehicle, which lists the capabilities required to survive the environmental conditions during and after launch and describes the standard deployment interface used to release the satellites. The development of standards shared by a large number of spacecraft contributes to a significant reduction in the development time and cost of CubeSat missions.
 
-In 2017, this standardization effort led to the publication of ISO 17770:2017 by the International Organization for Standardization. This standard defines specifications for CubeSats including their physical, mechanical, electrical, and operational requirements. It also provides a specification for the interface between the CubeSat and its launch vehicle, which lists the capabilities required to survive the environmental conditions during and after launch and describes the standard deployment interface used to release the satellites. The development of standards shared by a large number of spacecraft contributes to a significant reduction in the development time and cost of CubeSat missions.
-
-**Technical Specifications**
+## Technical Standards**
 - Size of CubeSat 1U is 10 cm × 10 cm × 11.35 cm to provide 10cm x 10cm x 10cm of useful volume, the most common form factor is the 3U.
 - Protrusions beyond the maximum dimensions are allowed by the standard specification, to a maximum of 6.5 mm (0.26 in) beyond each side. Any protrusions may not interfere with the deployment rails and are typically occupied by antennas and solar panels.
 - No electronics form factors or communications protocols are specified or required by the CubeSat Design Specification, but COTS<sup>*</sup> hardware has consistently used certain features which many treat as standards in CubeSat electronics.
@@ -19,5 +18,5 @@ In 2017, this standardization effort led to the publication of ISO 17770:2017 by
 - Many CubeSats use an omnidirectional monopole or dipole antenna built with commercial measuring tape
 - Low Earth Orbit Cubesats use antennas for communication purpose at UHF and S-band
 
-COTS<sup>*</sup> - Commercial off-the-shelf
+*COTS<sup>*</sup> - Commercial off-the-shelf*
 
