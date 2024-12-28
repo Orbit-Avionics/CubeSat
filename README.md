@@ -33,4 +33,4 @@ In 2017, a standardization effort led to the publication of ISO 17770:2017. This
   - CubeSats commonly use **omnidirectional monopole** or **dipole antennas**, often constructed with commercial measuring tape.  
   - For communication in LEO, CubeSats frequently operate in the **UHF** and **S-band** frequency ranges.  
 
-
+[Database of other CubeSats](https://www.nanosats.eu/database)
