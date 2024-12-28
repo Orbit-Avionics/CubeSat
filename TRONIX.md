@@ -6,6 +6,7 @@ This project is interdisciplianry, following factors should be taken in consider
 - Must be able to respond and ping back messages, a duplex communication should be established successfully.
 - Should necessarily data log(Temperature, Pressure).
 - Re-entry within days no need to consider radiation effects.
+- A extension for connection should be provided for future expansion.
 
 
 ## Standards aimed to achive in future
