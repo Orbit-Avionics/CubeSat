@@ -15,4 +15,4 @@ This project is interdisciplianry, following factors should be taken in consider
 - Able to acts as a node sending out beacons for connecting must be able to communicate with ground station.
 - If communication lost it must be able to recover from it.
 
-- This version must be built such that Version 0.5 be built over it with very few additions, maybe adding few features or adding entirely other PCBs.
+This version must be built such that Version 0.5 be built over it with very few additions, maybe adding few features or adding entirely other PCBs.
