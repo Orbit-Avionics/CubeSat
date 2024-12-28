@@ -1,4 +1,4 @@
-# This project is interdisciplianry, following factors should be taken in consideration while designing
+This project is interdisciplianry, following factors should be taken in consideration while designing
 ## Necessary specifications
 - Form factor for a PCB must be 90cm x 96cm
 - CUBEX is a battery powered satellite.
